@@ -34,6 +34,9 @@ But then we used adversaries in the game which made agent take wrong actions res
 * The existence of such attacks shows the vulnerabilities of function approximators like Neural Nets and forces us to rethink “Generalization in Machine Learning.” It is not that these attacks are a characteristic property of Deep Learning models like Neural Nets. They exist even in the most linear Machine Learning models that we see. Since Neural Nets are built on these architectures, they inherit this flaw.
 * Nevertheless, analyzing adversarial attacks encourages us to build more robust systems and be prepared for good average-case and good worst-case performance.
 
+## 📌 Credits :
+
+
 
 
 
