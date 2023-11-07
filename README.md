@@ -36,5 +36,5 @@ But then we used adversaries in the game which made agent take wrong actions res
 
 ## 📌 Credits :
 <a href="https://github.com/yash2001-positivecoder/Adversarial_Reinforcement_Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yash2001-positivecoder/Adversarial_Reinforcement_Learning" />
+    <img src="https://contrib.rocks/image?repo=yash2001-positivecoder/Stock-Market-Portfolio-Managment-and-Assets-Recommender-System" />
 </a>
