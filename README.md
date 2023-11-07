@@ -35,10 +35,6 @@ But then we used adversaries in the game which made agent take wrong actions res
 * Nevertheless, analyzing adversarial attacks encourages us to build more robust systems and be prepared for good average-case and good worst-case performance.
 
 ## 📌 Credits :
-hey
-
-
-
-
-
-
+<a href="https://github.com/yash2001-positivecoder/Adversarial_Reinforcement_Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yash2001-positivecoder/Adversarial_Reinforcement_Learning" />
+</a>
